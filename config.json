@@ -1,19 +1,19 @@
 {
-    "bot": {
-        "owner": "Kendi discord id giriniz",
-        "prefix": "bot ön ek giriniz",
-        "BotStatus": "Bilmem ne kalp MERMKGEQKRGERG",
+    "bot": {MTA3ODY3NDA1ODIzMDYzNjYyNA.G-0mso.CNjG_x4Jj-XC_KQUwTBQFGiL7iniatb12qwSQI
+        "owner": "909742945291354152",
+        "prefix": ".",
+        "BotStatus": "Brave? ❤️",
         "BotFooter": "Bot alt kısım",
         "cooldown": 8
     },
     "penals": {
         "ban": {
-            "staff": "Ban yetkilisi id",
+            "staff": "1078678785135755324",
             "log": "Ban log id",
             "limit": 3
         },
         "jail": {
-            "staff": "Jail yetkili id",
+            "staff": "1078678870552739840",
             "roles": "Cezalı rolü id",
             "log": "Ceza log id",
             "limit": 5
